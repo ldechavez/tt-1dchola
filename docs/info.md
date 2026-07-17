@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Shows H-O-L-A in 7-segment display.
 
 ## How to test
 
-Explain how to use your project
+Just press reset and the letters will show in the 7-segment display.
 
 ## External hardware
 
